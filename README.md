@@ -98,3 +98,5 @@ API 密钥: `<你的AUTH_KEY>`
 *   `DELETE /api/keys`: 批量删除 API 密钥。请求体为 `{"keys": ["key1", "key2"]}`。
 
 普通 Gemini/OpenAI API 调用只需使用 `AUTH_KEY`，无需管理权限认证
+
+111
